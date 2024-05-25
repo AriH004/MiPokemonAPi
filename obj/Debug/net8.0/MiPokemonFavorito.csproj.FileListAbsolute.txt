@@ -1,0 +1,66 @@
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\appsettings.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\MiPokemonFavorito.exe
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\MiPokemonFavorito.deps.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\MiPokemonFavorito.runtimeconfig.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\MiPokemonFavorito.pdb
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.csproj.AssemblyReference.cache
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.AssemblyInfoInputs.cache
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.AssemblyInfo.cs
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.csproj.CoreCompileInputs.cache
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets\msbuild.MiPokemonFavorito.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets\msbuild.build.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\scopedcss\bundle\MiPokemonFavorito.styles.css
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemo.AC3F761F.Up2Date
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\refint\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.pdb
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\MiPokemonFavorito.genruntimeconfig.cache
+C:\Users\ari20\OneDrive\Escritorio\Examen Progra\MiPokemonFavorito\obj\Debug\net8.0\ref\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\appsettings.json
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\MiPokemonFavorito.exe
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\MiPokemonFavorito.deps.json
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\MiPokemonFavorito.runtimeconfig.json
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\MiPokemonFavorito.pdb
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.csproj.AssemblyReference.cache
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.AssemblyInfoInputs.cache
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.AssemblyInfo.cs
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.csproj.CoreCompileInputs.cache
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets\msbuild.MiPokemonFavorito.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets\msbuild.build.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiPokemonFavorito.props
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\scopedcss\bundle\MiPokemonFavorito.styles.css
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemo.AC3F761F.Up2Date
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\refint\MiPokemonFavorito.dll
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.pdb
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\MiPokemonFavorito.genruntimeconfig.cache
+C:\Users\ari20\OneDrive\Escritorio\repo\obj\Debug\net8.0\ref\MiPokemonFavorito.dll
