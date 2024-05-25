@@ -1,0 +1,6 @@
+@MiPokemonFavorito_HostAddress = http://localhost:5089
+
+GET {{MiPokemonFavorito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
